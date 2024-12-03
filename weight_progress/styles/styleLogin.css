@@ -1,0 +1,42 @@
+
+.form-control{
+    width: 100%;
+}
+
+body{
+    color: white;
+    background-color: #333333;
+}
+
+h3 {
+    &.red {
+        color: red;
+    }
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+form button a{
+    text-decoration: none;
+    color: white;
+}
+
+form{
+    padding: 4em;
+    border-radius: 1em;
+    border: solid white 1px;
+    backdrop-filter: blur(100px);
+    background-color: #555555;
+    min-width: 30em;
+}
+
+.button-container{
+    display: flex;
+    justify-content: space-between;
+}
+

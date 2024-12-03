@@ -1,0 +1,19 @@
+body{
+    background-color: #333333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    color: white;
+}
+
+.form-select{
+    background-color: #555555;
+    border: none;
+    color: white;
+}
+
+.volumenDefiForm button{
+    margin-top: 2em;
+}
+
