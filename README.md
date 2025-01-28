@@ -5,10 +5,13 @@ Este proyecto es una aplicación web para el seguimiento del peso y los objetivo
 ## Capturas de Pantalla
 
 ### 1. Inicio de Sesión
-![IntcioSession](Imagenes/IntcioSession.png)
+![IntcioSession](Imagenes/InicioSesion.png)
 
-### 2. Objetivos
-![Objectwo](Imagenes/Objectivo.png)
+### 2. Registro
+![Registro](Imagenes/Registro.png)
+
+### 3. Objetivos
+![Objectwo](Imagenes/Objetivo.png)
 
 ### 3. Página Principal
 ![PaginaPrincipal](Imagenes/PaginaPrincipal.png)
@@ -16,8 +19,6 @@ Este proyecto es una aplicación web para el seguimiento del peso y los objetivo
 ### 4. Progreso
 ![Progresso](Imagenes/Progreso.png)
 
-### 5. Registro
-![Registro](Imagenes/Registro.png)
 
 ## Instalación
 
