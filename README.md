@@ -29,7 +29,7 @@ Para instalar y ejecutar este proyecto localmente, sigue estos pasos:
    git clone https://github.com/Cernada8/Weight-Progress-PHP.git
 
 2. Crear la base de datos localmente:
-   ```bash
+ ```bash
 CREATE DATABASE IF NOT EXISTS tu_base_de_datos;
 USE tu_base_de_datos;
 
