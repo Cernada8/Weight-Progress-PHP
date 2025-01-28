@@ -26,4 +26,4 @@ Para instalar y ejecutar este proyecto localmente, sigue estos pasos:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/Cernada8/Weight-Progress-PHP.git
