@@ -1,4 +1,4 @@
-# Proyecto de Seguimiento de Peso y Objetivos
+# Proyecto de Seguimiento de Peso y Objetivos 🏋️
 
 Este proyecto es una aplicación web para el seguimiento del peso y los objetivos de los usuarios. A continuación, se muestran algunas capturas de pantalla de la aplicación.
 
